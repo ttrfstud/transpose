@@ -1,0 +1,9 @@
+{
+  "name": "transpose",
+  "version": "0.0.0",
+  "description": "matrix transpose",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
