@@ -1,3 +1,3 @@
 transpose
 =============
-matrix transpose. check your args before invoking it!
+matrix transpose. for built-in js arrays. check your args before invoking it!
