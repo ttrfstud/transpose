@@ -1,8 +1,12 @@
 {
   "name": "transpose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "matrix transpose",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttrfstud/transpose"
+  },
   "devDependencies": {
     "taptap": "0.0.3"
   }
